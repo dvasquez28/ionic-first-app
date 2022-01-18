@@ -1,0 +1,7 @@
+{
+  "name": "my-app-dvc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
